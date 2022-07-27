@@ -17,7 +17,6 @@ sidebar:
     email: vetrivel223@gmail.com
     phone: +91 9176379054
     timezone: India/Kolkata IST-Timezone
-    citizenship: Indian
     linkedin: vetrivel-shanmugam-53825b211
     github: vetrivel223
     telegram: # add your nickname without '@' sign
@@ -59,12 +58,16 @@ education:
       university: University of Madras-IDE
       time: 2019 - 2021
       details: |
-          - level: 60%
+    toolset:
+       - name: percentage
+         level: 63%
     - degree: BCA in Computer Science
       university: Guru Nanak College,Chennai
       time: 2015 - 2018
       details: |
-          - level: 71%
+    toolset:
+       - name: percentage
+         level: 71%
 experiences:
     - role: Relationship Executive - Off Role
       time: 2018 - 2019
@@ -93,12 +96,12 @@ projects:
 courses/certifications:
     title: Courses and Certifications
     intro: |
-    courses:
+    courses/certifications:
       - title: Cloud & DevOps Overview
         link: "#"
         authors: At Cloudyuga Technologies/ Freshkite Solutions
         time: 2022 - Present
-    certifications:   
+   
       - title: "Basic Leadership Camp"
         link: "#"
         authors: At National Cadet Corps during at my College
