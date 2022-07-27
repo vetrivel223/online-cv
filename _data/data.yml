@@ -92,16 +92,17 @@ projects:
 courses:
     title: Courses and Certifications
     intro: |
-    courses:
+    
+    papers:
       - title: Cloud & DevOps Overview
         link: "#"
         authors: At Cloudyuga Technologies/ Freshkite Solutions
-        time: 2022 - Present
+        conference: 2022 - Present
    
       - title: Basic Leadership Camp
         link: "#"
         authors: At National Cadet Corps during at my College
-        time: 2017 - 2018
+        conference: 2017 - 2018
 
 skills:
     title: Skills &amp; Proficiency
