@@ -1,3 +1,5 @@
+
+
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
@@ -9,21 +11,19 @@ sidebar:
     # Profile information
     name: Vetrivel Shanmugam
     tagline: Trained DevOps Candidate
-    avatar: passportsizenew.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: passportsizenew.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: vetrivel223@gmail.com
     phone: +91 9176379054
     timezone: India/Kolkata IST-Timezone
     citizenship: Indian
-    website:  #do not add http://
-    linkedin: vetrivel-shanmugam-53825b211/
-    xing: 
+    linkedin: vetrivel-shanmugam-53825b211
     github: vetrivel223
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: @vetrive32963994
+    twitter: '@vetrive32963994'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -52,7 +52,8 @@ career-profile:
     title: Career Objective
     summary: |
       To get an opportunity where I can make the best of my potential and contribute to the organization’s
-growth and to improve my Skill sets and work experience as ASAP to contribute the Organization.
+      growth and to improve my Skill sets and work experience as ASAP to contribute the Organization.
+
 education:
     - degree: MSc in Computer Science
       university: University of London
