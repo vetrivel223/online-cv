@@ -90,9 +90,8 @@ projects:
         tagline:      "I have used Docusaurus templete to wrote my Article."
         
 courses:
-    title: Courses and Certifications
+    title: Courses
     intro: |
-    
     papers:
       - title: Cloud & DevOps Overview
         link: "#"
