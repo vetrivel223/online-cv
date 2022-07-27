@@ -50,19 +50,21 @@ sidebar:
 career-profile:
     title: Career Objective
     summary: |
-      To get an opportunity where I can make the best of my potential and contribute to the organization’s
-      growth also to improve my Skill sets and learn Work Knowledge ASAP to contribute the Organization.
+      To get an opportunity where i can make the best of my potential and contribute to the organization’s
+      growth also to improve my skill sets and learn work knowledge to contribute the organization.
 
 education:
     - degree: MCA in Computer Science
       university: University of Madras-IDE
       time: 2019 - 2021
       details: |
+        level: 65%
       
     - degree: BCA in Computer Science
       university: Guru Nanak College,Chennai
       time: 2015 - 2018
       details: |
+        level: 71%
       
     - degree: Cloud & Devops Overview
       university: Cloudyuga Technologies/ Freshkite 
