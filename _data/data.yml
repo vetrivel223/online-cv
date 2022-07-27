@@ -9,7 +9,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Vetrivel Shanmugam
+    name: Vetrivel
     tagline: Trained DevOps Candidate
     avatar: passportsizenew.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -84,11 +84,11 @@ projects:
     assignments:
       - title: Create Read Use and Delete-CRUD Operations Using PHP
         link: "#hook"
-        tagline: "Created a Database to List out the Employees/Students Details Using Apache Server and Mysql Database."
+        tagline:      "Created a Database to List out the Employees/Students Details Using Apache Server and Mysql Database."
 
       - title: Created new website and wrote an Article about DevOpstools in Vercel
         link: "#"
-        tagline: "I have used Docusaurus templete to wrote my Article."
+        tagline:      "I have used Docusaurus templete to wrote my Article."
         
 Courses and Certifications:
     title: Courses and Certifications
@@ -99,7 +99,6 @@ Courses and Certifications:
         authors: At Cloudyuga Technologies/ Freshkite Solutions
         conference: "2022 - Present"
         
-    certificates:
       - title: "Basic Leadership Camp"
         link: "#"
         authors: At National Cadet Corps during at my College
