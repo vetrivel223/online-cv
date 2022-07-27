@@ -86,13 +86,13 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Create Read Use and Delete-CRUD Operations Using PHP
+      - title: Create Read Update and Delete-CRUD Operations Using PHP
         link: "#hook"
         tagline:      "Created a Database to List out the Employees/Students Details Using Apache Server and Mysql Database."
 
       - title: Created new website and wrote an Article about DevOpstools in Vercel
         link: "#"
-        tagline:      "I have used Docusaurus templete to wrote my Article."
+        tagline:      "    I have used Docusaurus templete to wrote my Article."
         
 courses:
     title: Courses
