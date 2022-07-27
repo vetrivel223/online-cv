@@ -90,19 +90,19 @@ projects:
         link: "#"
         tagline:      "I have used Docusaurus templete to wrote my Article."
         
-Courses and Certifications:
+courses/certifications:
     title: Courses and Certifications
     intro: |
     courses:
       - title: Cloud & DevOps Overview
         link: "#"
         authors: At Cloudyuga Technologies/ Freshkite Solutions
-        conference: "2022 - Present"
-        
+        time: 2022 - Present
+    certifications:   
       - title: "Basic Leadership Camp"
         link: "#"
         authors: At National Cadet Corps during at my College
-        conference: "2017 - 2018"
+        time: 2017 - 2018
 
 skills:
     title: Skills &amp; Proficiency
