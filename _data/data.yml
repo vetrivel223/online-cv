@@ -55,135 +55,76 @@ career-profile:
       growth and to improve my Skill sets and work experience as ASAP to contribute the Organization.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MCA in Computer Science
+      university: University of Madras-IDE
+      time: 2019 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - level: 60%
+    - degree: BCA in Computer Science
+      university: Guru Nanak College,Chennai
+      time: 2015 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - level: 71%
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Relationship Executive - Off Role
+      time: 2018 - 2019
+      company: THE HINDU, Chennai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - An Employee with a year of Experience
+          - Promoted NIE-Newspaper In Education In Schools
+          - Repersentative for School Managements 
+          - Managed 100+ Schools in my Zone
+          - Solved Conflicts with School Management
+          - Organized Events Related to NIE
+          - Included New Customers to the Company
+   
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Create Read Use and Delete-CRUD Operations Using PHP
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Created a Database to List out the Employees/Students Details Using Apache Server and Mysql Database."
 
-      - title: DevStudio
+      - title: Created new website and wrote an Article about DevOpstools in Vercel
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
+        tagline: "I have used Docusaurus templete to wrote my Article.\https://github.com/vetrivel223/Devopstools \"
+        
+Courses and Certifications:
+    title: Courses and Certifications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+    courses:
+      - title: Cloud & DevOps Overview
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: At Cloudyuga Technologies/ Freshkite Solutions
+        conference: "2022 - Present"
+        
+    certificates:
+      - title: "Basic Leadership Camp"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: At National Cadet Corps during at my College
+        conference: "2017 - 2018"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: HTML5 & MySql
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python & PHP
+        level: 65%
 
-      - name: Angular
-        level: 98%
+      - name: Linux OS
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Git & Github
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Docker & Devops Tools
+        level: 70%
 
-      - name: Sketch & Photoshop
+      - name: Design & Photoshop
         level: 60%
 
 footer: >
