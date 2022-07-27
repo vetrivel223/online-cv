@@ -58,16 +58,12 @@ education:
       university: University of Madras-IDE
       time: 2019 - 2021
       details: |
-    toolset:
-       - name: percentage
-         level: 63%
+      
     - degree: BCA in Computer Science
       university: Guru Nanak College,Chennai
       time: 2015 - 2018
       details: |
-    toolset:
-       - name: percentage
-         level: 71%
+    
 experiences:
     - role: Relationship Executive - Off Role
       time: 2018 - 2019
@@ -93,16 +89,16 @@ projects:
         link: "#"
         tagline:      "I have used Docusaurus templete to wrote my Article."
         
-courses/certifications:
+courses:
     title: Courses and Certifications
     intro: |
-    courses/certifications:
+    courses:
       - title: Cloud & DevOps Overview
         link: "#"
         authors: At Cloudyuga Technologies/ Freshkite Solutions
         time: 2022 - Present
    
-      - title: "Basic Leadership Camp"
+      - title: Basic Leadership Camp
         link: "#"
         authors: At National Cadet Corps during at my College
         time: 2017 - 2018
