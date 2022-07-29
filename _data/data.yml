@@ -16,6 +16,7 @@ sidebar:
     # Sidebar links
     email: vetrivel223@gmail.com
     phone: +91 9176379054
+    location: Chennai
     timezone: India/Kolkata IST-Timezone
     linkedin: vetrivel-shanmugam-53825b211
     github: vetrivel223
@@ -76,13 +77,13 @@ experiences:
       time: 2018 - 2019
       company: THE HINDU, Chennai
       details: |
-          - An Employee with a year of Experience
-          - Promoted NIE-Newspaper In Education In Schools
+          - An Employee over a year of Experience
+          - Promoted NIE-Newspaper In Education at Schools
           - Repersentative for School Managements 
           - Managed 100+ Schools in my Zone
           - Solved Conflicts with School Management
           - Organized Events Related to NIE
-          - Included New Customers to the Company
+          - Included many New Clients to the Company
    
 projects:
     title: Projects
@@ -129,7 +130,7 @@ skills:
       - name: Docker & Devops Tools
         level: 70%
 
-      - name: Design & Photoshop
+      - name: Planing & Designing
         level: 60%
 
 footer: >
