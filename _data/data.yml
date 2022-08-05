@@ -16,7 +16,7 @@ sidebar:
     # Sidebar links
     email: vetrivel223@gmail.com
     phone: +91 9176379054
-    location: Chennai
+    address: Chennai
     timezone: India/Kolkata IST-Timezone
     linkedin: vetrivel-shanmugam-53825b211
     github: vetrivel223
@@ -52,20 +52,18 @@ career-profile:
     title: Career Objective
     summary: |
       To get an opportunity where i can make the best of my potential and contribute to the organization’s
-      growth also to improve my skill sets and learn work knowledge to contribute the organization.
+      growth also to improve my skill sets and to learn work knowledge from and for the organization.
 
 education:
     - degree: MCA in Computer Science
       university: University of Madras-IDE
       time: 2019 - 2021
-      details: |
-        level: 65%
+      details: | 60%
       
     - degree: BCA in Computer Science
       university: Guru Nanak College,Chennai
       time: 2015 - 2018
-      details: |
-        level: 71%
+      details: | 71%
       
     - degree: Cloud & Devops Overview
       university: Cloudyuga Technologies/ Freshkite 
@@ -73,17 +71,17 @@ education:
       details: |
     
 experiences:
-    - role: Relationship Executive - Off Role
+    - role: Relationship Executive - (Offrole)
       time: 2018 - 2019
       company: THE HINDU, Chennai
-      details: |
-          - An Employee over a year of Experience
-          - Promoted NIE-Newspaper In Education at Schools
+      details: | Rolls and Responsibilities:
+          - An Employee over a year of Experience in Handling Clients
+          - Promot NIE-Newspaper In Education at Schools
           - Repersentative for School Managements 
           - Managed 100+ Schools in my Zone
-          - Solved Conflicts with School Management
-          - Organized Events Related to NIE
-          - Included many New Clients to the Company
+          - To Solve Conflicts with School Management
+          - Organize Events Related to NIE
+          - To Include New Clients to the Company
    
 projects:
     title: Projects
@@ -115,23 +113,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML5 & MySql
-        level: 80%
-
-      - name: Python & PHP
-        level: 65%
-
-      - name: Linux OS
-        level: 70%
+      - name: Docker & Kubernetes
+        level: 90%
 
       - name: Git & Github
         level: 80%
 
-      - name: Docker & Devops Tools
+      - name: Linux OS
+        level: 80%
+
+      - name: Python & PHP
         level: 70%
 
+      - name: HTML5 & MySQL 
+        level: 75%
+
       - name: Planing & Designing
-        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
