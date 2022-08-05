@@ -57,12 +57,12 @@ education:
     - degree: MCA in Computer Science
       university: University of Madras-IDE
       time: 2019 - 2021
-      details: | 60%
+      details: |
       
     - degree: BCA in Computer Science
       university: Guru Nanak College,Chennai
       time: 2015 - 2018
-      details: | 71%
+      details: |
       
     - degree: Cloud & Devops Overview
       university: Cloudyuga Technologies/ Freshkite 
@@ -73,7 +73,8 @@ experiences:
     - role: Relationship Executive - (Offrole)
       time: 2018 - 2019
       company: THE HINDU, Chennai
-      details: | Rolls and Responsibilities:
+      details: | 
+          - Rolls and Responsibilities:
           - An Employee over a year of Experience in Handling Clients
           - Promot NIE-Newspaper In Education at Schools
           - Repersentative for School Managements 
@@ -93,6 +94,10 @@ projects:
       - title: Created new website and wrote an Article about DevOpstools in Vercel
         link: "#"
         tagline:      "    I have used Docusaurus templete to wrote my Article."
+        
+      - title: Grocery Store Web application
+        link: ""
+        tagline: A web application to manage all the grocery store activities for ordering, managing products and customer detials.
         
 courses:
     title: Courses
