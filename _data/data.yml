@@ -95,9 +95,6 @@ projects:
         link: "#"
         tagline:      "    I have used Docusaurus templete to wrote my Article."
         
-      - title: Grocery Store Web application
-        link: ""
-        tagline: A web application to manage all the grocery store activities for ordering, managing products and customer detials.
         
 courses:
     title: Courses
